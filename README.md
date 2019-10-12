@@ -3,8 +3,6 @@
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/amoled.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/amoled)
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
-<a href="https://www.buymeacoffee.com/maartenpaauw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 > The Amoled Theme by Lance36
 
 ## Screenshots
