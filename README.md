@@ -1,41 +1,41 @@
-# Template Theme
+# Amoled Theme
 
-[![Build Status](https://www.travis-ci.org/home-assistant-community-themes/template.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/template)
+[![Build Status](https://www.travis-ci.org/home-assistant-community-themes/amoled.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/amoled)
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
 <a href="https://www.buymeacoffee.com/maartenpaauw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-> The Template Theme by Maarten Paauw
+> The Amoled Theme by Lance36
 
 ## Screenshots
 
 ### Overview
 
-![Theme - Overview](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-overview.png)
+![Theme - Overview](https://raw.githubusercontent.com/home-assistant-community-themes/amoled/master/docs/theme-overview.png)
 
 ### Map
 
-![Theme - Map](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-map.png)
+![Theme - Map](https://raw.githubusercontent.com/home-assistant-community-themes/amoled/master/docs/theme-map.png)
 
 ### Logbook
 
-![Theme - Logbook](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-logbook.png)
+![Theme - Logbook](https://raw.githubusercontent.com/home-assistant-community-themes/amoled/master/docs/theme-logbook.png)
 
 ### History
 
-![Theme - History](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-history.png)
+![Theme - History](https://raw.githubusercontent.com/home-assistant-community-themes/amoled/master/docs/theme-history.png)
 
-### Developers Tools
+### Developer Tools
 
-![Theme - Developers Tools](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-developers-tools.png)
+![Theme - Developer Tools](https://raw.githubusercontent.com/home-assistant-community-themes/amoled/master/docs/theme-developer-tools.png)
 
 ### Configuration
 
-![Theme - Configuration](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-configuration.png)
+![Theme - Configuration](https://raw.githubusercontent.com/home-assistant-community-themes/amoled/master/docs/theme-configuration.png)
 
 ### Profile
 
-![Theme - Profile](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-profile.png)
+![Theme - Profile](https://raw.githubusercontent.com/home-assistant-community-themes/amoled/master/docs/theme-profile.png)
 
 ## Installation
 
@@ -51,8 +51,8 @@ frontend:
 ### HACS
 
 1. Go to the Community Store.
-2. Search for `Template`.
-3. Navigate to `Template` theme.
+2. Search for `Amoled`.
+3. Navigate to `Amoled` theme.
 4. Press `Install`.
 5. Restart Home Assistant to make it show up.
 
@@ -62,12 +62,12 @@ Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
-git clone https://github.com/home-assistant-community-themes/template.git
+git clone https://github.com/home-assistant-community-themes/amoled.git
 ```
 
 Or using submodules:
 
 ```bash
 cd themes/
-git submodule add https://github.com/home-assistant-community-themes/template.git
+git submodule add https://github.com/home-assistant-community-themes/amoled.git
 ```
