@@ -3,7 +3,6 @@
 # Amoled Theme
 #
 amoled:
-  ha-card-background: "#000000"
   accent-color: "#E45E65"
   card-background-color: "var(--paper-card-background-color)"
   dark-primary-color: "var(--accent-color)"
@@ -56,3 +55,4 @@ amoled:
   table-row-alternative-background-color: "#3E424B"
   table-row-background-color: "#353840"
   text-primary-color: "var(--primary-text-color)"
+  ha-card-background: "#000000"
