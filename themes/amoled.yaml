@@ -10,6 +10,7 @@ amoled:
   divider-color: "rgba(0, 0, 0, .12)"
   google-green-500: "#39E949"
   google-red-500: "#E45E65"
+  ha-card-background: "#000000"
   label-badge-background-color: "#2E333A"
   label-badge-border-color: "green"
   label-badge-red: "var(--accent-color)"
@@ -55,4 +56,3 @@ amoled:
   table-row-alternative-background-color: "#222429"
   table-row-background-color: "#000000"
   text-primary-color: "var(--primary-text-color)"
-  ha-card-background: "#000000"
