@@ -56,3 +56,5 @@ amoled:
   table-row-alternative-background-color: "#222429"
   table-row-background-color: "#000000"
   text-primary-color: "var(--primary-text-color)"
+  switch-unchecked-button-color: "#333333"
+  switch-unchecked-track-color: "#333333"
