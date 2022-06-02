@@ -1,7 +1,7 @@
 # Amoled Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/amoled.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/amoled)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Amoled Theme by Lance36
 
